@@ -1,1 +1,16 @@
-
+spring:
+  application:
+    name: discovery
+server:
+  port: 8070
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+logging:
+  file:
+    path: logs
+  level:
+    root: INFO-

@@ -20,18 +20,25 @@ repositories {
 
 ext {
 	set('springCloudVersion', "Hoxton.SR8")
+	mapstructVersion = "1.4.1.Final"
 }
 
 dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
-	compileOnly 'org.projectlombok:lombok'
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa',
+	'org.springframework.boot:spring-boot-starter-web',
+	'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
+
 	runtimeOnly 'com.h2database:h2'
-	annotationProcessor 'org.projectlombok:lombok'
+	
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}
+
+	compileOnly "org.mapstruct:mapstruct:${mapstructVersion}",
+			'org.projectlombok:lombok:1.18.12'
+
+	annotationProcessor "org.mapstruct:mapstruct-processor:${mapstructVersion}",
+			'org.projectlombok:lombok:1.18.12'
 }
 
 dependencyManagement {

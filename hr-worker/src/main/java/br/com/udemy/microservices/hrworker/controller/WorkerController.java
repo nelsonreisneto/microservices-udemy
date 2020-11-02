@@ -1,7 +1,8 @@
 package br.com.udemy.microservices.hrworker.controller;
 
-import br.com.udemy.microservices.hrworker.domain.entities.WorkerEntity;
-import br.com.udemy.microservices.hrworker.domain.repositories.WorkerRepository;
+import br.com.udemy.microservices.hrworker.domain.dtos.WorkerDto;
+import br.com.udemy.microservices.hrworker.mapper.WorkerMapper;
+import br.com.udemy.microservices.hrworker.service.WorkerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,15 +17,16 @@ import java.util.List;
 @RequiredArgsConstructor
 public class WorkerController {
 
-    private final WorkerRepository workerRepository;
+    private final WorkerService workerService;
 
     @GetMapping
-    public ResponseEntity<List<WorkerEntity>> findAll() {
-        return ResponseEntity.ok().body(workerRepository.findAll());
+    public ResponseEntity<List<WorkerDto>> findAll() {
+        List<WorkerDto> workerDtos = WorkerMapper.INSTANCE.toDtoList(workerService.getAll());
+        return ResponseEntity.ok().body(workerDtos);
     }
 
     @GetMapping(value = "/{id}")
-    public ResponseEntity<WorkerEntity> findById(@PathVariable long id) {
-        return ResponseEntity.ok().body(workerRepository.findById(id).orElse(WorkerEntity.builder().build()));
+    public ResponseEntity<WorkerDto> findById(@PathVariable long id) {
+        return ResponseEntity.ok().body(workerService.getOneById(id));
     }
 }
