@@ -2,49 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d577b5-3672-4b8b-bfa7-8621a8796c8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/logs/spring.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/src/main/java/br/com/udemy/microservices/udemymicroservices/DiscoveryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discovery/src/test/java/br/com/udemy/microservices/udemymicroservices/DiscoveryApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/client/WorkerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/domain/dto/WorkerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/domain/entities/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/HrWorkerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/domain/dtos/WorkerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/domain/entities/WorkerEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/domain/repositories/WorkerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/exception/WorkerNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/mapper/WorkerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/service/WorkerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-worker/src/test/java/br/com/udemy/microservices/hrworker/HrWorkerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +47,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hr-worker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gateway" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -108,6 +85,9 @@
       <workItem from="1604328648251" duration="604000" />
       <workItem from="1604329776177" duration="904000" />
       <workItem from="1604331661128" duration="965000" />
+      <workItem from="1604359750498" duration="1479000" />
+      <workItem from="1604362099897" duration="1684000" />
+      <workItem from="1604363907646" duration="492000" />
     </task>
     <servers />
   </component>

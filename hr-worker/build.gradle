@@ -1,52 +1,53 @@
 plugins {
-	id 'org.springframework.boot' version '2.3.4.RELEASE'
-	id 'io.spring.dependency-management' version '1.0.10.RELEASE'
-	id 'java'
+    id 'org.springframework.boot' version '2.3.4.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+    id 'java'
 }
 
-group = 'br.com.udemy.microservices'
+group = 'br.com.udemy.microservices.hr-worker'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '8'
 
 configurations {
-	compileOnly {
-		extendsFrom annotationProcessor
-	}
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
 }
 
 repositories {
-	mavenCentral()
+    mavenCentral()
 }
 
 ext {
-	set('springCloudVersion', "Hoxton.SR8")
-	mapstructVersion = "1.4.1.Final"
+    set('springCloudVersion', "Hoxton.SR8")
+    mapstructVersion = "1.4.1.Final"
 }
 
 dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-data-jpa',
-	'org.springframework.boot:spring-boot-starter-web',
-	'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa',
+            'org.springframework.boot:spring-boot-starter-web',
+            'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client',
+            'org.springframework.cloud:spring-cloud-starter-netflix-ribbon'
 
-	runtimeOnly 'com.h2database:h2'
-	
-	testImplementation('org.springframework.boot:spring-boot-starter-test') {
-		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
-	}
+    runtimeOnly 'com.h2database:h2'
 
-	compileOnly "org.mapstruct:mapstruct:${mapstructVersion}",
-			'org.projectlombok:lombok:1.18.12'
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
 
-	annotationProcessor "org.mapstruct:mapstruct-processor:${mapstructVersion}",
-			'org.projectlombok:lombok:1.18.12'
+    compileOnly "org.mapstruct:mapstruct:${mapstructVersion}",
+            'org.projectlombok:lombok:1.18.12'
+
+    annotationProcessor "org.mapstruct:mapstruct-processor:${mapstructVersion}",
+            'org.projectlombok:lombok:1.18.12'
 }
 
 dependencyManagement {
-	imports {
-		mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
-	}
+    imports {
+        mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+    }
 }
 
 test {
-	useJUnitPlatform()
+    useJUnitPlatform()
 }
