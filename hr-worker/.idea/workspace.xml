@@ -2,28 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f7db77-bbe1-4524-89eb-66d66f067f89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../discovery/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../discovery/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,31 +33,38 @@
   </component>
   <component name="ProjectId" id="1jjs5KxRzTXniBClzMEQmKkVjTr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HrWorkerApplication">
+    <configuration name="HrWorkerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.udemy.microservices.hrworker.HrWorkerApplication" />
+      <module name="hr-worker.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.udemy.microservices.hrworker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HrWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hr-worker.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.udemy.microservices.hrworker.HrWorkerApplication" />
@@ -71,6 +72,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HrWorkerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HrWorkerApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -106,5 +115,35 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604860985535">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state x="141" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860985535" />
+    <state x="524" y="446" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604860972161">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state x="524" y="446" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860972161" />
+    <state width="1320" height="243" key="GridCell.Tab.0.bottom" timestamp="1604864524284">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state width="1320" height="243" key="GridCell.Tab.0.bottom/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604864524284" />
+    <state width="1320" height="243" key="GridCell.Tab.0.center" timestamp="1604864524284">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state width="1320" height="243" key="GridCell.Tab.0.center/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604864524284" />
+    <state width="1320" height="243" key="GridCell.Tab.0.left" timestamp="1604864524284">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state width="1320" height="243" key="GridCell.Tab.0.left/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604864524284" />
+    <state width="1320" height="243" key="GridCell.Tab.0.right" timestamp="1604864524284">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state width="1320" height="243" key="GridCell.Tab.0.right/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604864524284" />
+    <state x="172" y="189" key="SettingsEditor" timestamp="1604860980873">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state x="172" y="189" key="SettingsEditor/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860980873" />
   </component>
 </project>

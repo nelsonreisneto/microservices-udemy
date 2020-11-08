@@ -33,6 +33,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-config-server/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-config-server/src/main/java/br/com/udemy/microservices/hrconfigserver/HrConfigServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-config-server/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-payroll/build.gradle">
           <value>
             <set />

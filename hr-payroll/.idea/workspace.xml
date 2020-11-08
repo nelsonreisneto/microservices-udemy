@@ -2,28 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d577b5-3672-4b8b-bfa7-8621a8796c8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../discovery/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../discovery/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrpayroll/HrPayrollApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.yaml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,31 +33,38 @@
   </component>
   <component name="ProjectId" id="1jjs4odeAnjyj1VRLO2oxAjEgPQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gateway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hr-config-server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HrPayrollApplication">
+    <configuration name="HrPayrollApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.udemy.microservices.hrpayroll.HrPayrollApplication" />
+      <module name="hr-payroll.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.udemy.microservices.hrpayroll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HrPayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hr-payroll.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.udemy.microservices.hrpayroll.HrPayrollApplication" />
@@ -71,6 +72,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HrPayrollApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HrPayrollApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -106,5 +115,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604860914535">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state x="141" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860914535" />
+    <state x="524" y="446" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604860870078">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state x="524" y="446" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860870078" />
+    <state x="466" y="312" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604863571323">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state x="466" y="312" width="424" height="484" key="FileChooserDialogImpl/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604863571323" />
+    <state x="172" y="189" key="SettingsEditor" timestamp="1604860884532">
+      <screen x="0" y="185" width="1366" height="741" />
+    </state>
+    <state x="172" y="189" key="SettingsEditor/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860884532" />
   </component>
 </project>
