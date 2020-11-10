@@ -1,2 +1,21 @@
-test:
-  config: My config value default profile
+spring:
+  application:
+    name: hr-worker
+  h2:
+    console:
+      enabled: true
+      path: /h2
+  datasource:
+    url: jdbc:h2:mem:testedb
+    username: sa
+    password:
+    driverClassName: org.h2.Driver
+
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+    hibernate:
+      ddl-auto: create
+    show-sql: false
+

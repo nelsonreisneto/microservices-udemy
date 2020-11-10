@@ -4,6 +4,7 @@ import br.com.udemy.microservices.hrworker.domain.dtos.WorkerDto;
 import br.com.udemy.microservices.hrworker.mapper.WorkerMapper;
 import br.com.udemy.microservices.hrworker.service.WorkerService;
 import lombok.RequiredArgsConstructor;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -15,6 +16,7 @@ import java.util.List;
 @RestController
 @RequestMapping(value = "/workers")
 @RequiredArgsConstructor
+@RefreshScope
 public class WorkerController {
 
     private final WorkerService workerService;

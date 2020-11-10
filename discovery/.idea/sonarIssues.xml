@@ -68,7 +68,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/HrWorkerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-worker/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-worker/src/main/resources/bootstrap.yaml">
           <value>
             <set />
           </value>
