@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: hr-user
+    name: hr-oauth
 
 eureka:
   instance:

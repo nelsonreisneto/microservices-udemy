@@ -20,5 +20,7 @@ public class UserDto implements Serializable {
     private String name;
     private String email;
     private String password;
+
+    @Builder.Default
     private Set<RoleDto> roleEntities = new HashSet<>();
 }

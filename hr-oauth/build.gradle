@@ -4,26 +4,36 @@ plugins {
     id 'java'
 }
 
-group = 'br.com.udemy.microservices.gateway'
+group = 'br.com.udemy.microservices'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '8'
+sourceCompatibility = '1.8'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
 
 repositories {
     mavenCentral()
 }
 
 ext {
-    set('springCloudVersion', "Hoxton.SR8")
+    set('springCloudVersion', "Hoxton.SR9")
 }
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web',
             'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client',
-            'org.springframework.cloud:spring-cloud-starter-netflix-zuul'
+            'org.springframework.cloud:spring-cloud-starter-openfeign',
+            'org.springframework.cloud:spring-cloud-starter-oauth2'
 
     testImplementation('org.springframework.boot:spring-boot-starter-test') {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
+
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
 }
 
 dependencyManagement {

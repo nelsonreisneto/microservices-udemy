@@ -53,12 +53,92 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-oath/HELP.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oath/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-oath/src/main/java/br/com/udemy/microservices/hroath/HrOathApplication.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-oath/src/main/java/br/com/udemy/microservices/hroauth/HrOathApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oath/src/main/java/br/com/udemy/microservices/hroauth/HrOauthApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-oath/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/Controllers/OauthClientController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/HrOauthApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/clients/UserClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/configs/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/configs/AuthorizationServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/configs/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/controllers/OauthClientController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/domain/dtos/UserDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/exceptions/ClientCommunicationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/service/OauthUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/services/OauthUserService.java">
           <value>
             <set />
           </value>
@@ -229,6 +309,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrworker/service/WorkerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/Bootstrap.yaml">
           <value>
             <set />
           </value>

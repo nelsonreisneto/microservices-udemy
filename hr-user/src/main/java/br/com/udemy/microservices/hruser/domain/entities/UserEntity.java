@@ -14,7 +14,7 @@ import java.util.Set;
 @AllArgsConstructor
 @NoArgsConstructor
 @EqualsAndHashCode
-@Table(name = "tb_role")
+@Table(name = "tb_user")
 public class UserEntity implements Serializable {
 
     private static final long serialVersionUID = 1L;
@@ -29,12 +29,13 @@ public class UserEntity implements Serializable {
     @Column(name = "email", nullable = false, length = 150, unique = true)
     private String email;
 
-    @Column(name = "password", nullable = false, length = 20)
+    @Column(name = "password", nullable = false, length = 200)
     private String password;
 
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(name = "tb_user_role",
             joinColumns = @JoinColumn(name = "user_id"),
             inverseJoinColumns = @JoinColumn(name = "role_id"))
+    @Builder.Default
     private Set<RoleEntity> roleEntities = new HashSet<>();
 }

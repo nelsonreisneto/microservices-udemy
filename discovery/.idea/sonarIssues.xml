@@ -48,6 +48,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/clients/UserClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/controllers/OauthClientController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/domain/dtos/UserDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/services/OauthUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-payroll/build.gradle">
           <value>
             <set />
@@ -63,12 +83,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/HrUserApplication.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/RoleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/dtos/UserDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/entities/UserEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-user/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/resources/bootstrap.yaml">
           <value>
             <set />
           </value>
@@ -84,6 +134,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-worker/src/main/resources/Bootstrap.yaml">
           <value>
             <set />
           </value>

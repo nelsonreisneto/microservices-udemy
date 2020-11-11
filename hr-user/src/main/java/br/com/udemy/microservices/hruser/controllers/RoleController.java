@@ -13,15 +13,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping(value = "/users")
+@RequestMapping(value = "/roles")
 @RequiredArgsConstructor
-@RefreshScope
 public class RoleController {
 
     private final RoleService roleService;
 
     @GetMapping(value = "/{id}")
-    public ResponseEntity<RoleDto> findById(@PathVariable long id) {
+    public ResponseEntity<RoleDto> findRoleById(@PathVariable long id) {
         return ResponseEntity.ok().body(roleService.getOneById(id));
     }
 }
