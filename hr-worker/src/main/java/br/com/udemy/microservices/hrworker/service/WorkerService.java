@@ -9,7 +9,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Objects;
 
 @Slf4j
 @Service
@@ -22,16 +21,17 @@ public class WorkerService {
     }
 
     public WorkerDto getOneById(final Long id) {
-        WorkerEntity workerEntity = workerRepository.getOneById(id).orElse(null);
-        if (Objects.isNull(workerEntity)) {
-            log.warn("Objeto worker não encontrado;");
-            throw new WorkerNotFoundException();
-        }
+        WorkerEntity workerEntity = workerRepository.getOneById(id).orElseThrow(() -> new WorkerNotFoundException("Worker não encontrado"));
         return WorkerMapper.INSTANCE.toDto(workerEntity);
     }
 
-    public List<WorkerEntity> getAll() {
-        return workerRepository.findAll();
+    public List<WorkerDto> getAll() {
+        List<WorkerEntity> workerDtos = workerRepository.findAll();
+        if(workerDtos.isEmpty()){
+            log.warn("Lista de workers sem valores.");
+            throw new WorkerNotFoundException();
+        }
+        return WorkerMapper.INSTANCE.toDtoList(workerDtos);
     }
 
 }

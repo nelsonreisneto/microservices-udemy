@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f893c655-7a7a-4d07-811b-9f520e76c3af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../configs/hr-worker.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../configs/hr-worker.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/HrWorkerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1jjryK4ErnrnkuSXYQpZCeBZMTe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gateway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
@@ -113,10 +107,10 @@
       <screen x="0" y="185" width="1366" height="741" />
     </state>
     <state x="524" y="446" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860829602" />
-    <state x="466" y="312" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605012309588">
+    <state x="466" y="312" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605013111337">
       <screen x="0" y="185" width="1366" height="741" />
     </state>
-    <state x="466" y="312" width="424" height="484" key="FileChooserDialogImpl/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1605012309588" />
+    <state x="466" y="312" width="424" height="484" key="FileChooserDialogImpl/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1605013111337" />
     <state width="1320" height="560" key="GridCell.Tab.0.bottom" timestamp="1604945221466">
       <screen x="0" y="185" width="1366" height="741" />
     </state>

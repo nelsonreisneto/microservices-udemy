@@ -63,6 +63,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/HrUserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-worker/build.gradle">
           <value>
             <set />

@@ -23,8 +23,7 @@ public class WorkerController {
 
     @GetMapping
     public ResponseEntity<List<WorkerDto>> findAll() {
-        List<WorkerDto> workerDtos = WorkerMapper.INSTANCE.toDtoList(workerService.getAll());
-        return ResponseEntity.ok().body(workerDtos);
+        return ResponseEntity.ok().body(workerService.getAll());
     }
 
     @GetMapping(value = "/{id}")

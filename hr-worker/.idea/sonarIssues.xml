@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../discovery/build.gradle">
           <value>
             <set />
@@ -48,6 +53,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-oath/src/main/java/br/com/udemy/microservices/hroath/HrOathApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-oath/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hr-payroll/build.gradle">
           <value>
             <set />
@@ -63,6 +78,136 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/HrUserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/RoleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/dtos/RoleDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/dtos/UserDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/dtos/UserEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/entities/RoleEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/entities/UserEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/entities/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/entities/RoleEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/entities/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/entities/UserEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/exceptions/RoleNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/exceptions/UserNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/mapper/RoleMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/mapper/UserMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/mapper/WorkerMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/repositories/RoleRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/repositories/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/repositories/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/services/RoleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/services/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/resources/bootstrap.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-user/src/main/resources/data.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -74,6 +219,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrworker/exception/WorkerNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrworker/service/WorkerService.java">
           <value>
             <set />
           </value>

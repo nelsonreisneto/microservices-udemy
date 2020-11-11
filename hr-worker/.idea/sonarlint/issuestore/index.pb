@@ -5,3 +5,5 @@ Jsrc/main/java/br/com/udemy/microservices/hrworker/HrWorkerApplication.java,9/1
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 ‚
 Rsrc/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java,1/c/1c554db8b730cd72972701e67ba15ab505181a1b
+ƒ
+Ssrc/main/java/br/com/udemy/microservices/hrworker/domain/entities/WorkerEntity.java,6/7/67fa70929e586c4ac0f771d76873ee7a42742317
