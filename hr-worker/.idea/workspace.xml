@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f7db77-bbe1-4524-89eb-66d66f067f89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-config-server/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-config-server/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/src/main/java/br/com/udemy/microservices/hroath/HrOathApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oath/src/test/java/br/com/udemy/microservices/hroath/HrOathApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/RoleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/dtos/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/dtos/UserDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/entities/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/domain/entities/UserEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/resources/bootstrap.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../discovery" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -159,11 +134,11 @@
       <screen x="0" y="185" width="1366" height="741" />
     </state>
     <state x="524" y="446" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1604860972161" />
-    <state x="2021" y="185" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605120532275">
+    <state x="2021" y="185" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605179501939">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="466" y="312" width="424" height="484" key="FileChooserDialogImpl/0.185.1366.741/1366.0.1920.1080@0.185.1366.741" timestamp="1605099413432" />
-    <state x="2021" y="185" width="424" height="484" key="FileChooserDialogImpl/0.185.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1605120532275" />
+    <state x="2021" y="185" width="424" height="484" key="FileChooserDialogImpl/0.185.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1605179501939" />
     <state width="1874" height="391" key="GridCell.Tab.0.bottom" timestamp="1605124707603">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
