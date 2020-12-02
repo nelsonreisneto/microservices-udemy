@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1d577b5-3672-4b8b-bfa7-8621a8796c8d" name="Default Changelist" comment="" />
+    <list default="true" id="e1d577b5-3672-4b8b-bfa7-8621a8796c8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/services/OauthUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/br/com/udemy/microservices/hroauth/services/OauthUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-user/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/services/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/java/br/com/udemy/microservices/hruser/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/mapper/WorkerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/mapper/WorkerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/service/WorkerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/service/WorkerService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hr-worker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />

@@ -21,10 +21,10 @@ public class OauthUserService implements UserDetailsService {
     private final UserClient userClient;
 
     @Override
-    public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException{
+    public UserDetails loadUserByUsername(String username) {
         ResponseEntity<UserDto> userResponse = userClient.fingByEmail(username);
         return Optional.of(userResponse)
-                .filter(user -> user.getStatusCode().is5xxServerError())
+                .filter(user -> !user.getStatusCode().is5xxServerError())
                 .filter(user -> Objects.nonNull(user.getBody()))
                 .orElseThrow(() -> new UsernameNotFoundException("Erro na comunicação do serviço hr-user"))
                 .getBody();

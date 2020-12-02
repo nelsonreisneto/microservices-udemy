@@ -19,11 +19,15 @@ ext {
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web',
             'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client',
-            'org.springframework.cloud:spring-cloud-starter-netflix-zuul'
+            'org.springframework.cloud:spring-cloud-starter-netflix-zuul',
+            'org.springframework.cloud:spring-cloud-starter-oauth2'
 
     testImplementation('org.springframework.boot:spring-boot-starter-test') {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
+
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
 }
 
 dependencyManagement {

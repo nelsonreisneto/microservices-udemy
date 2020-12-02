@@ -33,6 +33,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gateway/src/main/java/br/com/udemy/microservices/gateway/config/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gateway/src/main/java/br/com/udemy/microservices/gateway/config/ResourcesServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gateway/src/main/resources/application.yaml">
           <value>
             <set />
@@ -308,6 +318,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrworker/mapper/WorkerMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/br/com/udemy/microservices/hrworker/service/WorkerService.java">
           <value>
             <set />
@@ -324,6 +339,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/bootstrap.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Workspace/fini-srv-envio-sms/src/main/java/br/com/bradesco/bbf/enviosms/EnvioSmsApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Workspace/fini-srv-envio-sms/src/main/java/br/com/bradesco/bbf/enviosms/config/AsyncConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Workspace/fini-srv-envio-sms/src/main/java/br/com/bradesco/bbf/enviosms/controller/EnvioSmsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Workspace/fini-srv-envio-sms/src/main/java/br/com/bradesco/bbf/enviosms/controller/handler/ExceptionHandler.java">
           <value>
             <set />
           </value>

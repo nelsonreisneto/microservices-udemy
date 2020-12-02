@@ -38,6 +38,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gateway/src/main/java/br/com/udemy/microservices/gateway/config/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gateway/src/main/java/br/com/udemy/microservices/gateway/config/ResourcesServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gateway/src/main/resources/application.yaml">
           <value>
             <set />
@@ -189,6 +199,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/controller/WorkerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/mapper/WorkerMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hr-worker/src/main/java/br/com/udemy/microservices/hrworker/service/WorkerService.java">
           <value>
             <set />
           </value>

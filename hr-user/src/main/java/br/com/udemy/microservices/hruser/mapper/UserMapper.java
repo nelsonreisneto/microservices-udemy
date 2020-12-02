@@ -3,12 +3,12 @@ package br.com.udemy.microservices.hruser.mapper;
 import br.com.udemy.microservices.hruser.domain.dtos.UserDto;
 import br.com.udemy.microservices.hruser.domain.entities.UserEntity;
 import org.mapstruct.Mapper;
-import org.mapstruct.factory.Mappers;
+import org.springframework.stereotype.Component;
 
-@Mapper
-public abstract class UserMapper {
-    public static final UserMapper INSTANCE = Mappers.getMapper(UserMapper.class);
+@Mapper(componentModel = "spring")
+@Component
+public interface UserMapper {
 
-    public abstract UserDto toDto(final UserEntity userEntity);
+    UserDto toDto(final UserEntity userEntity);
 
 }

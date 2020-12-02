@@ -16,16 +16,17 @@ import org.springframework.stereotype.Service;
 public class UserServiceImpl implements UserService {
 
     private final UserRepository userRepository;
+    private final UserMapper userMapper;
 
     @Override
     public UserDto getOneById(final Long id) {
         UserEntity userEntity = userRepository.findById(id).orElseThrow(() -> new UserNotFoundException("Usuario não encontrado!"));
-        return UserMapper.INSTANCE.toDto(userEntity);
+        return userMapper.toDto(userEntity);
     }
 
     @Override
     public UserDto getOneByEmail(final String email) {
         UserEntity userEntity = userRepository.findByEmail(email).orElseThrow(() -> new UserNotFoundException("Usuario não encontrado!"));
-        return UserMapper.INSTANCE.toDto(userEntity);
+        return userMapper.toDto(userEntity);
     }
 }

@@ -29,3 +29,15 @@ zuul:
     user:
       service-id: hr-user
       path: /hr-user/**
+
+ribbon:
+  ConnectTimeout: 10000
+  ReadTimeout: 20000
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 60000

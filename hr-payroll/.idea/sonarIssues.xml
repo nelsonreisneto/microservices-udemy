@@ -28,6 +28,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gateway/src/main/java/br/com/udemy/microservices/gateway/config/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gateway/src/main/java/br/com/udemy/microservices/gateway/config/ResourcesServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gateway/src/main/resources/application.yaml">
           <value>
             <set />
